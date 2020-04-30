@@ -1,0 +1,20 @@
+/*
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Oswald', sans-serif;
+*/
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Lato', sans-serif;
+  color: #777;
+}
+
+header{
+  background-color: salmon;
+  color: white;
+  text-align: center;
+}
